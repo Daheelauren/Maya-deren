@@ -1,0 +1,163 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Daheelauren.github.io/Maya-deren/annotations/meshes-of-the-afternoon-canvas-1-trick-editing-.json",
+  "type": "AnnotationPage",
+  "label": "trick editing ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-trick-editing--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The editors cut very sharply to make it seem like she is teleporting ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29580.0,30180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-trick-editing--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The key immediately and magically transforms into a knife ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "32460.0,32580.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-trick-editing--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She throws the knife at the man, shattering the mirror and breaking the illusion. Quite literally breaking her mind or the breaking point. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "44399.0,44700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-trick-editing--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The key bounces in an unnatural way and the editing allows it to take an unsual path. This technique might have been used in order to mirror her subconscious state. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4200.0,4560.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-trick-editing--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The knife is in the bread but when it falls off, there is no dent marks- hinting at the unnatural setting of the film.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6480.0,6780.0"
+        }
+      }
+    }
+  ]
+}

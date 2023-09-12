@@ -23,6 +23,16 @@
         "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Daheelauren.github.io/Maya-deren/annotations/meshes-of-the-afternoon-canvas-1-trick-editing-.json",
+            "label": {
+              "none": ["trick editing "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Daheelauren.github.io/Maya-deren/meshes-of-the-afternoon/canvas-1/paintings",
